@@ -25,7 +25,8 @@ Sudo password is Udacity_Grader
 12. Apache installed and configured to serve a Python mod_wsgi application
 13. PostgreSQL is installed and remote connections to PostgreSQL are now allowed.
 14. A PostreSQL user 'catalog' is created and granted all privileges on database 'events_catalog'.
-13. EventsCatalog application (https://github.com/mohammedsafwat/events-catalog) is deployed and can be accessed from this URL (http://ec2-52-36-234-235.us-west-2.compute.amazonaws.com)
+15. EventsCatalog application (https://github.com/mohammedsafwat/events-catalog) is deployed and can be accessed from this URL (http://ec2-52-36-234-235.us-west-2.compute.amazonaws.com)
+16. Apache status monitoring is configured using Munin. You can access Munin from (http://ec2-52-36-234-235.us-west-2.compute.amazonaws.com/munin) 
 
 ### Pacakges installed
 
