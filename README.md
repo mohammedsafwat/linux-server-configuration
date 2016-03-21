@@ -7,6 +7,7 @@ This project is about having  baseline installation of a Linux distribution on a
 SSH Port: 2200
 Public IP Address: 52.36.234.235
 URL of hosted web application: http://ec2-52-36-234-235.us-west-2.compute.amazonaws.com
+Sudo password is Udacity_Grader
 
 ### Summary of configurations done
 
@@ -45,3 +46,4 @@ URL of hosted web application: http://ec2-52-36-234-235.us-west-2.compute.amazon
 15. google_api_python_client
 16. Requests
 17. flask-seasurf 
+18. munin
